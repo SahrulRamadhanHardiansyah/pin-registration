@@ -18,7 +18,7 @@ Setiap siswa dapat mengambil tiket terlebih dahulu, kemudian menggunakan tiket t
 1. Clone repository ini:
    ```bash
    git clone [URL_REPOSITORY_ANDA]
-````
+   ```
 
 2. Jalankan perintah berikut untuk menginstal dependensi:
 
